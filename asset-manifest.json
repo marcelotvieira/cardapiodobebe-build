@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90a6bca5.css",
+    "main.js": "/static/js/main.579d48e1.js",
+    "static/media/mockup2.png": "/static/media/mockup2.128092955240e3bfc250.png",
+    "static/media/mockup3.png": "/static/media/mockup3.828a00853436507d0852.png",
+    "static/media/mockup1.png": "/static/media/mockup1.23a8604ba14b31ce49b1.png",
+    "static/media/mockup5-wide.png": "/static/media/mockup5-wide.adca9a4d9057f174eb24.png",
+    "static/media/mockup4.png": "/static/media/mockup4.0f8617127630482a6c0d.png",
+    "static/media/depo2.jpeg": "/static/media/depo2.e587ab008567036e4a91.jpeg",
+    "static/media/depo3.jpeg": "/static/media/depo3.87f0ee919180d577dae5.jpeg",
+    "static/media/depo4.jpeg": "/static/media/depo4.396fd089b738c98ee119.jpeg",
+    "static/media/depo5.jpeg": "/static/media/depo5.044addd4ed6abe8f685b.jpeg",
+    "static/media/depo1.jpeg": "/static/media/depo1.32c9c0a6b3269a17c544.jpeg",
+    "static/media/depo6.jpeg": "/static/media/depo6.2d80036f40467b99ee46.jpeg",
+    "static/media/background.jpg": "/static/media/background.bff8a0a67a15248923eb.jpg",
+    "static/media/garantia.png": "/static/media/garantia.504050b8951ecb2142fa.png",
+    "index.html": "/index.html",
+    "main.90a6bca5.css.map": "/static/css/main.90a6bca5.css.map",
+    "main.579d48e1.js.map": "/static/js/main.579d48e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a6bca5.css",
+    "static/js/main.579d48e1.js"
+  ]
+}
